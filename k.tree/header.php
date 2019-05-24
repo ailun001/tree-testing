@@ -1,4 +1,6 @@
-<?php echo '
+<?php 
+$url = '';
+echo '
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,11 +12,11 @@
     <header class="main-header">
         <nav class="nav main-nav">
             <ul>
-                <li><a href="index.php">HOME</a></li>
-                <li><a href="category.php">CATEGORY</a></li>
-                <li><a href="tool.php">Gardening tools</a></li>
-                <li><a href="service.php">Extra Service</a></li>
-                <li><a href="about.php">ABOUT</a></li>
+                <li><a href="'.$url.'index.php">HOME</a></li>
+                <li><a href="'.$url.'category.php">CATEGORY</a></li>
+                <li><a href="'.$url.'tool.php">Gardening tools</a></li>
+                <li><a href="'.$url.'service.php">Extra Service</a></li>
+                <li><a href="'.$url.'about.php">ABOUT</a></li>
             </ul>
         </nav>
 
