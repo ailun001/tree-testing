@@ -1,4 +1,4 @@
-<?php include 'header.php'?>
+<?php include './../header.php'?>
 
     <section class="container content-section">
         <h2 class="section-header">Trees</h2>
@@ -34,4 +34,4 @@
         </div>
     </section>
 
-<?php include 'footer.php'?>
+<?php include './../footer.php'?>
