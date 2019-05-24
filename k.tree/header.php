@@ -11,7 +11,7 @@
         <nav class="nav main-nav">
             <ul>
                 <li><a href="index.html">HOME</a></li>
-                <li><a href="./category/category.php">CATEGORY</a></li>
+                <li><a href="category.php">CATEGORY</a></li>
                 <li><a href="tool.html">Gardening tools</a></li>
                 <li><a href="service.html">Extra Service</a></li>
                 <li><a href="about.html">ABOUT</a></li>
