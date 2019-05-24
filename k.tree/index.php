@@ -5,8 +5,8 @@
         <form>
             <label>User Name:  <input type="text" name="namefield"></label>
             <label><br>Password:  <input type="text" name="pwdfield"></label><br><br>
-            <p><a href="category.html"> VIP Login</a></br></p>
-            <p><a href="category.html"> Continue Without Login</a></br></p>
+            <p><a href="category.php"> VIP Login</a></br></p>
+            <p><a href="category.php"> Continue Without Login</a></br></p>
         </form>
 
     </section>
