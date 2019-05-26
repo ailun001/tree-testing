@@ -15,7 +15,7 @@ echo '
             <ul>
                 <li><a href="'.$url.'index.php">HOME</a></li>
                 <li><a href="'.$url.'category.php">CATEGORY</a></li>
-				<li><a href="'.$url.'search.php">Extra Service</a></li>
+				<li><a href="'.$url.'search.php">Search</a></li>
                 <li><a href="'.$url.'about.php">ABOUT</a></li>
             </ul>
         </nav>

@@ -5,7 +5,7 @@
              <div class="shop-items">
                  <div class="shop-item">
                      <span class="shop-item-title">Meyer Lemon Tree</span>
-                     <a href="#"><img class="shop-item-image" src="Images/Meyer_Lemon.png"></a>
+                     <a href="#"><img class="shop-item-image" src="https://tree-testing.herokuapp.com/Images/Meyer_Lemon.png"></a>
 
                      <form action="description.php" method="post">
 
