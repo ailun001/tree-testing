@@ -1,4 +1,6 @@
 <?php echo '
+
+			<div><button>Pay By MasteCard</button>  <button>PayPal</button></div><br><br>
 <form action="description.php" method="post">
  <section class="container content-section">
             <h2 class="section-header">CART</h2>
@@ -18,8 +20,6 @@
 				<option value="pickup">Pickup</option>
 				<option value="delivery">Delivery</option>
 			</select>
-			<br><br>
-			<div><button>Pay By MasteCard</button>  <button>PayPal</button></div>
 			<br><br>
             <button  type="post" value="Post">PURCHASE</button>
         </section>
