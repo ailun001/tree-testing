@@ -1,4 +1,4 @@
-<?php include 'https://tree-testing.herokuapp.com/header.php'?>
+<?php include './../../header.php'?>
 
 <section class="container content-section">
 
@@ -30,4 +30,4 @@
              </div>
          </section>
 		 
-<?php include 'https://tree-testing.herokuapp.com/footer.php'?>
+<?php include './../../footer.php'?>
