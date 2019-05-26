@@ -1,4 +1,4 @@
-<?php include './../header.php'?>
+<?php include 'https://tree-testing.herokuapp.com/header.php'?>
 
 <section class="container content-section">
             <h2 class="heading">Fruit Tree</h2>
@@ -35,4 +35,4 @@
 
 <?php include 'cart.php'?>
 
-<?php include './../footer.php'?>
+<?php include 'https://tree-testing.herokuapp.com/footer.php'?>
